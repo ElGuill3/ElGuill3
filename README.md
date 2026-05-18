@@ -103,4 +103,13 @@ Prefer simple, reliable solutions.
   <a href="https://github.com/ElGuill3">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=e5e7eb" />
   </a>
+  <a href="https://www.linkedin.com/in/jimenez-g-antonio">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=93c5fd" />
+  </a>
+  <a href="mailto:guillermo29320@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=fca5a5" />
+  </a>
+  <a href="https://discord.com/users/el_guill3">
+    <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=c4b5fd" />
+  </a>
 </div>
