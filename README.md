@@ -87,10 +87,7 @@ Prefer simple, reliable solutions.
 ## GitHub stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElGuill3&theme=github_dark" />
-</div>
-
-<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElGuill3&theme=github_dark" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElGuill3&theme=github_dark" />
   <img height="170" src="https://streak-stats.demolab.com?user=ElGuill3&theme=github-dark-blue&hide_border=true&background=00000000&ring=93c5fd&fire=93c5fd&currStreakLabel=d1d5db" />
 </div>
