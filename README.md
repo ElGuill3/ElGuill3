@@ -10,17 +10,38 @@
   <img src="https://komarev.com/ghpvc/?username=ElGuill3&label=Profile%20views&color=4b5563&style=flat" alt="profile views" />
 </p>
 
+Backend-focused developer building automation, tooling and algorithmic trading systems with a strong Linux-first workflow.
+
 </div>
 
 ---
 
 ## About me
 
-- 💻 Software developer focused on backend, automation and technical tooling
-- 📈 Building algorithmic trading and copy-trading related projects
-- 🐍 Main stack: Python, TypeScript, SQL and Linux
-- 🧠 Interested in quantitative finance, system design and real-time APIs
-- ⚙️ I enjoy creating tools that mix data, infrastructure and practical workflows
+- 💻 I build backend services, automation workflows and practical developer tooling
+- 📈 My current interest is algorithmic trading, copy-trading flows and strategy evaluation
+- 🐍 I work mostly with Python, TypeScript, SQL and Linux-based environments
+- 🧠 I care about clean architecture, real-time APIs and systems that are reliable in production
+- ⚙️ I enjoy projects where data, infrastructure and product thinking meet
+
+---
+
+## What I'm building now
+
+- Trading infrastructure and execution workflows
+- Quant metrics, strategy testing and evaluation pipelines
+- API integrations and automation-heavy backend services
+- Internal tools that improve reliability and developer workflows
+
+---
+
+## Core interests
+
+- Quantitative finance
+- Backend architecture
+- Real-time systems
+- API design
+- Linux tooling and workflows
 
 ---
 
@@ -30,18 +51,36 @@
 
 <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=9ca3af" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=93c5fd" />
-<img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=d1d5db" />
 <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=9ca3af" />
 <img src="https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=e5e7eb" />
-<img src="https://img.shields.io/badge/Fedora-111827?style=for-the-badge&logo=fedora&logoColor=93c5fd" />
 <img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=93c5fd" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=9ca3af" />
 <img src="https://img.shields.io/badge/FastAPI-1f2937?style=for-the-badge&logo=fastapi&logoColor=a7f3d0" />
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=fca5a5" />
-<img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=e5e7eb" />
-<img src="https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode&logoColor=93c5fd" />
 
 </div>
+
+---
+
+## Selected work
+
+- 📊 Trading systems focused on strategy execution, testing and performance metrics
+- 🔄 Automation tools and integrations built around external APIs and operational workflows
+- 🗺️ Data-heavy projects, including geospatial processing and transformation tasks
+- 🧩 Backend services designed for maintainability, observability and practical use
+
+> I'm using the pinned repositories section below to highlight the projects that best represent this work.
+
+---
+
+## Approach
+
+```text
+Build useful systems.
+Keep the architecture clean.
+Automate repetitive work.
+Measure what matters.
+Prefer simple, reliable solutions.
+```
 
 ---
 
@@ -55,29 +94,6 @@
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=ElGuill3&theme=github-dark-blue&hide_border=true&background=00000000&ring=93c5fd&fire=93c5fd&currStreakLabel=d1d5db" />
 </div>
-
----
-
-## Featured work
-
-- 📊 Trading systems, strategy testing and performance metrics
-- 🔄 Automation tools and API integrations
-- 🗺️ Data and geospatial development projects
-- 🧩 Backend services and practical developer tooling
-
-> Replace this section with pinned repositories once you choose the ones you want to highlight.
-
----
-
-## Current focus
-
-```text
-- Algorithmic trading workflows
-- Copy-trading infrastructure
-- Quant metrics and strategy evaluation
-- Clean backend architecture
-- Linux-based development environments
-```
 
 ---
 
