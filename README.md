@@ -87,11 +87,11 @@ Prefer simple, reliable solutions.
 ## GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ElGuill3&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=d1d5db&text_color=9ca3af&icon_color=93c5fd" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElGuill3&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=d1d5db&text_color=9ca3af" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElGuill3&theme=github_dark" />
 </div>
 
 <div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElGuill3&theme=github_dark" />
   <img height="170" src="https://streak-stats.demolab.com?user=ElGuill3&theme=github-dark-blue&hide_border=true&background=00000000&ring=93c5fd&fire=93c5fd&currStreakLabel=d1d5db" />
 </div>
 
