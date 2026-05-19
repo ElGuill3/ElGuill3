@@ -28,8 +28,6 @@ Backend-focused developer building automation, tooling and algorithmic trading s
 
 ## What I'm building now
 
-- Trading infrastructure and execution workflows
-- Quant metrics, strategy testing and evaluation pipelines
 - API integrations and automation-heavy backend services
 - Internal tools that improve reliability and developer workflows
 
@@ -37,7 +35,7 @@ Backend-focused developer building automation, tooling and algorithmic trading s
 
 ## Core interests
 
-- Quantitative finance
+- Frontend Design
 - Backend architecture
 - Real-time systems
 - API design
@@ -58,15 +56,6 @@ Backend-focused developer building automation, tooling and algorithmic trading s
 <img src="https://img.shields.io/badge/FastAPI-1f2937?style=for-the-badge&logo=fastapi&logoColor=a7f3d0" />
 
 </div>
-
----
-
-## Selected work
-
-- 📊 Trading systems focused on strategy execution, testing and performance metrics
-- 🔄 Automation tools and integrations built around external APIs and operational workflows
-- 🗺️ Data-heavy projects, including geospatial processing and transformation tasks
-- 🧩 Backend services designed for maintainability, observability and practical use
 
 > I'm using the pinned repositories section below to highlight the projects that best represent this work.
 
