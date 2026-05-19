@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f1115,50:2a2f36,100:4b5563&text=Guillermo%20Jim%C3%A9nez&fontColor=d1d5db&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Algorithmic%20Trading%20%7C%20Linux&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f1115,50:2a2f36,100:4b5563&text=Guillermo%20Jim%C3%A9nez&fontColor=d1d5db&fontSize=42&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Automation%20%7C%20Linux&descAlignY=58&descSize=16" width="100%" />
 
 # Hey, I'm Guillermo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C0C7D1&center=true&vCenter=true&width=900&lines=Software+Developer;Algorithmic+Trading+Builder;Python+%7C+TypeScript+%7C+Linux;Building+tools%2C+automation+and+trading+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C0C7D1&center=true&vCenter=true&width=900&lines=Frontend-focused+Developer;Automation+Builder;TypeScript+%7C+React+%7C+Linux;Building+interfaces%2C+tools+and+practical+workflows)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ElGuill3&label=Profile%20views&color=4b5563&style=flat" alt="profile views" />
 </p>
 
-Backend-focused developer building automation, tooling and algorithmic trading systems with a strong Linux-first workflow.
+Frontend-focused developer building practical interfaces, automation workflows and product-oriented tools with a strong Linux-first workflow.
 
 </div>
 
@@ -18,28 +18,30 @@ Backend-focused developer building automation, tooling and algorithmic trading s
 
 ## About me
 
-- 💻 I build backend services, automation workflows and practical developer tooling
-- 📈 My current interest is algorithmic trading, copy-trading flows and strategy evaluation
-- 🐍 I work mostly with Python, TypeScript, SQL and Linux-based environments
-- 🧠 I care about clean architecture, real-time APIs and systems that are reliable in production
-- ⚙️ I enjoy projects where data, infrastructure and product thinking meet
+- 💻 I build frontend applications focused on clarity, usability and practical product value
+- ⚙️ Automation is one of my strongest interests, especially when it improves workflows or removes repetitive work
+- 🧩 I work mainly with TypeScript, modern web tooling and Linux-based development environments
+- 🔌 I enjoy connecting interfaces with APIs, backend services and real-world operational needs
+- 🧠 I care about maintainable UI architecture, clean code and tools that solve concrete problems
 
 ---
 
 ## What I'm building now
 
-- API integrations and automation-heavy backend services
-- Internal tools that improve reliability and developer workflows
+- Frontend applications with clean interfaces and useful user flows
+- Automation-heavy tools that reduce manual work and improve productivity
+- API-connected dashboards, internal platforms and practical web products
+- Full-stack projects where frontend experience matters as much as the underlying logic
 
 ---
 
 ## Core interests
 
-- Frontend Design
-- Backend architecture
-- Real-time systems
-- API design
-- Linux tooling and workflows
+- Frontend architecture
+- Automation and developer workflows
+- TypeScript and modern web development
+- API integration and product-oriented interfaces
+- Linux tooling and practical systems
 
 ---
 
@@ -49,6 +51,7 @@ Backend-focused developer building automation, tooling and algorithmic trading s
 
 <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=9ca3af" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=93c5fd" />
+<img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=93c5fd" />
 <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=9ca3af" />
 <img src="https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=e5e7eb" />
 <img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=93c5fd" />
@@ -56,6 +59,15 @@ Backend-focused developer building automation, tooling and algorithmic trading s
 <img src="https://img.shields.io/badge/FastAPI-1f2937?style=for-the-badge&logo=fastapi&logoColor=a7f3d0" />
 
 </div>
+
+---
+
+## Selected work
+
+- 🎨 Frontend projects focused on practical UX, clear structure and product usability
+- 🔄 Automation tools and integrations built around real workflows and external APIs
+- 📊 Data-driven interfaces, dashboards and tools that surface useful information clearly
+- 🧩 Full-stack projects where frontend experience and implementation quality go together
 
 > I'm using the pinned repositories section below to highlight the projects that best represent this work.
 
