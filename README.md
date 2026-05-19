@@ -69,8 +69,6 @@ Frontend-focused developer building practical interfaces, automation workflows a
 - 📊 Data-driven interfaces, dashboards and tools that surface useful information clearly
 - 🧩 Full-stack projects where frontend experience and implementation quality go together
 
-> I'm using the pinned repositories section below to highlight the projects that best represent this work.
-
 ---
 
 ## Approach
