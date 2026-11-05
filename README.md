@@ -76,7 +76,7 @@ I also have solid **backend** experience, mostly building and consuming APIs, wh
   <a href="mailto:guillermo29320@gmail.com">
     <img src="https://img.shields.io/badge/Email-5B3C88?style=for-the-badge&logo=gmail&logoColor=FF4D6D" alt="Email" />
   </a>
-  <a href="https://discord.com/users/el_guill3">
+  <a href="https://discord.com/users/1071555316778553474">
     <img src="https://img.shields.io/badge/Discord-5B3C88?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
